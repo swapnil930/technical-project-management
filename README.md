@@ -1,6 +1,6 @@
 # React + Vite
 #Technical Project Management
-- clone project - https://github.com/swapnil930/technical-project-management/edit/main/README.md
+- clone project - https://github.com/swapnil930/technical-project-management
 - npm install
 - npm run dev
 
