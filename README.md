@@ -1,6 +1,6 @@
 # React + Vite
 #Technical Project Management
-- clone project - https://github.com/swapnil930/technical-project-management
+- clone project - https://github.com/swapnil930/technical-project-management.git
 - npm install
 - npm run dev
 
